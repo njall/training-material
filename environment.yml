@@ -1,17 +1,30 @@
----
 name: galaxy_training_material
 channels:
-  - conda-forge
-  - defaults
-  - bioconda
+- bioconda
+- conda-forge
+- defaults
+- r
 dependencies:
-  - ruby=2.4.1
-  - jemalloc=4.4.0
-  - gmp=6.1.0
-  - openssl=1.0.2l
-  - readline=6.2
-  - yaml=0.1.6
-  - zlib=1.2.8
-  - yamllint=1.2.1
-  - nodejs=8.8.1
-  - libiconv
+- yamllint=1.2.1
+- ca-certificates=2018.4.16
+- certifi=2018.4.16
+- gettext=0.19.8.1
+- gmp=6.1.2
+- jemalloc=5.0.1
+- libiconv=1.15
+- ncurses=5.9
+- nodejs=9.11.0
+- openssl=1.0.2o
+- pip=9.0.3
+- python=3.6.5
+- pyyaml=3.12
+- readline=7.0
+- ruby=2.4.4
+- setuptools=39.0.1
+- sqlite=3.20.1
+- tk=8.6.7
+- wheel=0.31.0
+- xz=5.2.3
+- yaml=0.1.7
+- zlib=1.2.11
+
