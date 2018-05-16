@@ -1,23 +1,11 @@
 ---
 layout: tutorial_hands_on
-topic_name: training
-tutorial_name: create-new-tutorial-docker
+topic_name: contributing
+tutorial_name: create-new-tutorial-technical
 ---
 
 # Introduction
 {:.no_toc}
-
-Galaxy is a great solution to train the bioinformatics concepts:
-
-- numerous bioinformatics tools are available (almost 5,000 in the ToolShed)
-- it can be used by people without amy computer science skills
-- it trains to use technology, outlining available resources and efforts that have made them accessible to researchers
-- it is scalable
-
-In 2016, the Galaxy Training Network decide to set up a new infrastructure for delivering easily Galaxy related training material. The idea was to develop something open and online based on a community effort, as always in Galaxy.
-
-We took inspiration from [Software Carpentry](https://software-carpentry.org) and collected everything on a GitHub repository: [https://github.com/galaxyproject/training-material ](https://github.com/galaxyproject/training-material).
-We decided on a structure based on tutorials with hands-on, fitting both for online self-training but also for workshops, grouped in topics. Each tutorial follows the same structure and comes with a virtualised isntance to run the training everywhere.
 
 In this tutorial, you will learn how to create a virtualised Galaxy instance, based on Docker, to run your training - either on normal computers or cloud environments.
 
