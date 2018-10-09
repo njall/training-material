@@ -10,7 +10,7 @@ objectives:
   - "Analysis of RNA sequencing data using a reference genome"
   - "Reconstruction of transcripts without reference transcriptome (de novo)"
   - "Analysis of differentially expressed genes"
-time_estimation: "6h"
+time_estimation: "6H"
 key_points:
   - "De novo transcriptome reconstruction is the ideal approach for identifying differentially expressed known and novel transcripts."
   - "Differential gene expression testing is improved with the use of replicate experiments and deep sequence coverage."

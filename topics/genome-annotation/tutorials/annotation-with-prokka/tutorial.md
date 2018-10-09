@@ -12,7 +12,7 @@ objectives:
   - "Load genome into Galaxy"
   - "Annotate genome with Prokka"
   - "View annotations in JBrowse"
-time_estimation: "1h"
+time_estimation: "1H"
 key_points:
   - "Prokka is a useful tool to annotate a bacterial genome."
   - "JBrowse can be used to inspect the annotation of a genome."
@@ -123,7 +123,7 @@ Now that we have annotated the draft genome sequence, we would like to view the 
 >               - Click Execute
 >
 > A new file will be created in your history, this contains the JBrowse interactive visualisation. We will now view its contents and play with it
-> 2. Inspect the `JBrowse on data XX and data XX - Complete` file by clicking on the eye icon
+> 2. Inspect the `JBrowse on data XX and data XX - Complete` file by clicking on the {% icon galaxy-eye %} (eye) icon
 >
 >    The JBrowse window will appear in the centre Galaxy panel.
 >

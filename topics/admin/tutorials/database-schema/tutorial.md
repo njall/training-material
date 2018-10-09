@@ -12,7 +12,7 @@ objectives:
   - "Learn some of the design concepts of the Galaxy database"
   - "Extract information from the Galaxy database"
   - "Get to know SchemaSpy"
-time_estimation: "2h"
+time_estimation: "2H"
 key_points:
   - "Be careful, when you interact with the Galaxy database. And make sure you always have a backup!"
 contributors:
@@ -381,6 +381,3 @@ The SpyOut directory will contain the generated reports and diagrams, anchored a
 # Conclusion
 
 There is a lot of information stored in the Galaxy database. Use this information for trouble shooting when necessary and use it as a source for extended user statistics.
-
-
-# :clap: Thank you

@@ -9,7 +9,7 @@ questions:
 objectives:
   - "Learn how to extract a workflow from a Galaxy history"
   - "Learn how to change a workflow using the workflow editor"
-time_estimation: "30m"
+time_estimation: "30M"
 key_points:
   - "Workflows allow you to easily repeat your analyses on different input datasets"
   - "Workflows can be automatically extracted from your analysis history"
@@ -182,7 +182,7 @@ Now that our edits are done, let's save our work and run the workflow.
 
 > ### {% icon hands_on %} Hands-on: Save the workflow edits
 >
->  1. *Click* on the **gear icon** at the top right of the center panel, *select* **Save** from the pull-down menu.
+>  1. *Click* on the **gear icon** at the top right of the central panel, *select* **Save** from the pull-down menu.
 {: .hands_on}
 
 

@@ -7,7 +7,7 @@ questions:
   - "How to find variable sites in diploid genomes?"
 objectives:
   - "Using Galaxy's main site we will see how to call variants in human genome."
-time_estimation: "1-1.5h"
+time_estimation: "90M"
 key_points:
   - "Variants versus Genotypes"
   - "Bayesian approach to variant calling"

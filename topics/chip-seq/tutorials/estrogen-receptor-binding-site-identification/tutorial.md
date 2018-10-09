@@ -12,7 +12,7 @@ objectives:
   - Assess the quality of an ChIP-seq experiments
   - Extract coverage files
   - Call enriched regions or peaks
-time_estimation: "3h"
+time_estimation: "3H"
 key_points:
   - ChIP-seq data requires multiple methods of quality assessment to ensure that the data is of high quality.
   - Multiple normalization methods exists depending on the availability of input data.
@@ -73,7 +73,7 @@ The first step of any ChIP-Seq data analysis is quality control of the raw seque
 >    > * Paste the link into the text field
 >    > * Press **Start** and **Close** the window
 >    > * Click on the `pencil` icon once the file is imported
->    > * Click on **Datatype** in the middle panel
+>    > * Click on **Datatype** in the central panel
 >    > * Select `fastqsanger` as **New Type**
 >    {: .tip}
 >

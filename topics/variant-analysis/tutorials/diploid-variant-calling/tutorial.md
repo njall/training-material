@@ -10,7 +10,7 @@ objectives:
   - "Identification of the genetic variation using the variant calling"
   - "Using FreeBayes calls for variants generating"
   - "Quering with GEMINI"
-time_estimation: "1d/3h/6h"
+time_estimation: "1H"
 key_points:
   - "The modern variant callers attempt to assign a reliability estimate for each genotype call. This is done using Bayes reasoning."
   - "FreeBayes variant caller looks at a haplotype window"
